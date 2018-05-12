@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '42517'
     url: http://www.gutenberg.org/2009/agents/42517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44004#Warren-Commission--4-of-26---Hearings-Vol.-IV--of-15-
 gutenberg_issued: '2013-10-19'
 gutenberg_type: Text
 identifiers:
